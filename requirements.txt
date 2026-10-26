@@ -1,0 +1,10 @@
+## requirements.txt
+
+At the root level, create:
+
+```text
+pandas
+networkx
+matplotlib
+openpyxl
+jupyter
